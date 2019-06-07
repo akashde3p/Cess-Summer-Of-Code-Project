@@ -1,2 +1,3 @@
 # Cess-Summer-Of-Code-Project
-Domain Name Crawler
+Domain Name Crawler:
+Crawlers which are also known as “Ant”, “Spider “and “Automatic Indexer” collects all the contents of any website and store the data in any txt, csv, html, RDBMS or NON-RDBMS files. This data can be very helpful in surveys of products on the online shopping websites like amazon, flipkart, aliexpress, jabong, myntra etc. However in this project we ought to focus on collecting the hyperlinks inside entered domain names or URLs of certain sites and store these domain names in SQL database system and from these saved URLs, will continue to crawl all the hyperlinks available further and thus repeating the process until its manual cease. 
